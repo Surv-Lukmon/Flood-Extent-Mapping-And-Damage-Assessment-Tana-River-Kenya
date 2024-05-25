@@ -1,6 +1,6 @@
 # Flood Extent Mapping and Damage Assessment Along Tana River, Kenya
 ## Abstract
-Kenya experienced devastating flooding between mid-April to May 2024 that caused the loss of lives and properties and the displacement of people from their houses. The flood is caused by continuous rainfall and overflow of rivers/dams ![(OCHA, 2024)](https://reliefweb.int/disaster/fl-2024-000045-ken).
+Kenya experienced devastating flooding between mid-April to May 2024 that caused the loss of lives and properties and the displacement of people from their houses. The flood is caused by continuous rainfall and overflow of rivers/dams [(OCHA, 2024)](https://reliefweb.int/disaster/fl-2024-000045-ken).
 
 I used the available optical sentinel-2 images in April to extract the flood extent along the Tana River, which is one of the affected locations. The images were pre-processed and analysed to extract the flood extent layer and permanent water bodies. The Normalised Modified Water Index (MNDWI) was adopted. The preliminary damage assessment was performed using the integration of the flood extent layer, land cover data, and building footprints from OSM. The flood mapping and damage assessment were done using Google Earth Engine Python API with geemap and the layers were exported to QGIS for final map preparation.
 
@@ -19,5 +19,7 @@ Workflow
 
 ## References
 Xu, H. (2006). Modification of normalised difference water index (NDWI) to enhance open water features in remotely sensed imagery. International Journal of Remote Sensing, 27(14), 3025–3033. https://doi.org/10.1080/01431160600589179
+
 OCHA (2024). Kenya: Floods - Apr 2024. https://reliefweb.int/disaster/fl-2024-000045-ken. Accessed 25 May 2024 
+
 Gabriel (@GMMunyoki)/ X. Retrieved from: https://x.com/GMMunyoki/status/1785281515317784627. Accessed 03 May 2024
