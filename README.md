@@ -9,12 +9,12 @@ Workflow
 
 
 ## Workflow
-![Methodology Flowchart](Maps\Methodology_Flow_Chart.png)
+![Methodology Flowchart](Maps/Methodology_Flow_Chart.png)
 
 ## Result Snippets
-![Flood Extent Map](Maps\Flood_Extent.png)
+![Flood Extent Map](Maps/Flood_Extent.png)
 
-![Flood Damage Assessment](Maps\Flood_Damage_Assessment.png)
+![Flood Damage Assessment](Maps/Flood_Damage_Assessment.png)
 
 
 ## References
